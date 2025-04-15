@@ -6,7 +6,7 @@ After reading the egotistical ramblings of an AI shArtist, I took up the challen
 
 It was no struggle. In fact, it was fun MAKING it myself instead of taking credit for AI generated content.
 
-Your move, shartists.
+Your move, shArtists.
 
 # How to use
 
@@ -20,4 +20,6 @@ and run it with
 
 
 
-Note that it expects an audio file named 'fnaf.opus' in the same directory as the compiled binary.
+Note that it expects an audio file named 'fnaf.opus' in the same directory as the compiled binary. I used the cupcake minigame song from FNAF: Sister Location, but you can use whatever you want as long as the file is named 'fnaf.opus'.
+
+Also note that this was written for Linux systems that have ffmpeg installed. Mac might work, but Windows is definitely not compatible.
