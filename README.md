@@ -10,7 +10,7 @@ Your move, shArtists.
 
 # How to use
 
-The code is on here just to hold the code. But, if you really want to run it as intended, then all you need to do is compile the cpp file with
+The code is on here for archival purposes. But, if you really want to run it as intended, then all you need to do is compile the cpp file with
 
 ```g++ main.cpp -o main```
 
